@@ -7,6 +7,8 @@
 ## Introduction 
 This document outlines the design of a Java-based chat application, enabling text-based communication between clients via a server, developed for network technologies coursework.
 
+## Final Module Grade: 90%
+
 ## Architecture 
 The application follows a client-server model, utilising TCP socket programming for reliable data transmission and a multi-threaded server architecture to handle multiple simultaneous client connections. The application provides a user-friendly console-based interface with colour enhancement for improved readability and interaction.
 
