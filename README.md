@@ -1,4 +1,4 @@
-# README for Network Technologies Chat Application 
+# Network Technologies Chat Application 
 **Author:** James McDonald  
 **Java Version Requirement:**  
 - Minimum Required: Java 8  
